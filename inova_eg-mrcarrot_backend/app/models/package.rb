@@ -31,8 +31,8 @@ class Package < ApplicationRecord
   def self.ransackable_associations(auth_object = nil)
     ["country", "meals", "orders", "package_meals", "reviews", "string_translations", "sub_orders"]
   end
-  def self.ransackable_attributes(auth_object = nil)
-    ["country_id", "created_at", "id", "image_url", "name", "price", "rate", "updated_at"]
-  end
+  # def self.ransackable_attributes(auth_object = nil)
+  #   ["country_id", "created_at", "id", "image_url", "name", "price", "rate", "updated_at"]
+  # end
 
 end

@@ -72,8 +72,8 @@ class User < ApplicationRecord
   def self.ransackable_associations(auth_object = nil)
     ["applicants", "devices", "notifications", "orders", "reviews", "user_notifications"]
   end
-  def self.ransackable_attributes(auth_object = nil)
-    ["confirmation_sent_at", "confirmation_token", "created_at", "email", "encrypted_password", "first_name", "id", "is_verified", "last_name", "mobile_number", "notifications_enabled", "remember_created_at", "reset_password_sent_at", "reset_password_token", "unconfirmed_mobile_number", "updated_at"]
-  end
+  # def self.ransackable_attributes(auth_object = nil)
+  #   ["confirmation_sent_at", "confirmation_token", "created_at", "email", "encrypted_password", "first_name", "id", "is_verified", "last_name", "mobile_number", "notifications_enabled", "remember_created_at", "reset_password_sent_at", "reset_password_token", "unconfirmed_mobile_number", "updated_at"]
+  # end
 
 end
