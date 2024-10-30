@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "AraHamah1964";
+  src: local("AraHamah1964"),
+    url(./Assets/Fonts/AraHamah1964.otf) format("opentype");
+}
+@font-face {
+  font-family: "AraHamahBold";
+  src: local("AraHamahBold"),
+    url(./Assets/Fonts/AraHamahBold.ttf) format("truetype");
+}
+@font-face {
+  font-family: "AraHamahSahet";
+  src: local("AraHamahSahet"),
+    url(./Assets/Fonts/AraHamahSahet.ttf) format("truetype");
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

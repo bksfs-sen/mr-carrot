@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  authenticable: one
+  authenticable_type: Authenticable
+  uuid: MyString
+  logged_out: false
+  locale: 1
+  fcm_token: MyText
+
+two:
+  authenticable: two
+  authenticable_type: Authenticable
+  uuid: MyString
+  logged_out: false
+  locale: 1
+  fcm_token: MyText

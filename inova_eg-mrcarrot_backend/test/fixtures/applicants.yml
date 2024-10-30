@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  school: one
+  education_level: 1
+  medical_issue_description: MyText
+  address: one
+
+two:
+  user: two
+  school: two
+  education_level: 1
+  medical_issue_description: MyText
+  address: two

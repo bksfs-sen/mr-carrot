@@ -1,0 +1,463 @@
+ar:
+  activerecord:
+    menu:
+      lookup: "عمليات البحث"
+      users: "المستخدمون والأدوار"
+      orders_payments: "الطلبات والمدفوعات"
+    models:
+      address:
+        one: "عنوان"
+        other: "عناوين"
+      admin_user:
+        one: "مستخدم إداري"
+        other: "مستخدمين إداريين"
+      comment:
+        one: "تعليق"
+        other: "تعليقات"
+      city:
+        one: "مدينة"
+        other: "مدن"
+      country:
+        one: "بلد"
+        other: "بلدان"
+
+      active_admin_comment:
+        one: "تعليق المدير "
+        other: "تعليقات المدير "
+      applicant:
+        one: "مقدم الطلب"
+        other: "مقدمو الطلبات"
+      applicant_medical_issue:
+        one: "مشكلة طبية لمقدم الطلب"
+        other: "مشاكل طبية لمقدمي الطلبات"
+      meal:
+        one: "وجبة"
+        other: "وجبات"
+      medical_issue:
+        one: "مشكلة طبية"
+        other: "مشكلات طبية"
+
+      notification:
+        one: "إشعار"
+        other: "إشعارات"
+      official_vacation:
+        one: "عطلة رسمية"
+        other: "عطلات رسمية"
+      order:
+        one: "طلب"
+        other: "طلبات"
+      package_meal:
+        one: "وجبة الحزمة"
+        other: "وجبات الحزم"
+      package:
+        one: "حزمة"
+        other: "حزم"
+      payment:
+        one: "دفع"
+        other: "دفعات"
+      pre_registered_user:
+        one: "مستخدم قبل التسجيل"
+        other: "مستخدمي قبل التسجيل"
+      region:
+        one: "منطقة"
+        other: "مناطق"
+      review:
+        one: "مراجعة"
+        other: "مراجعات"
+      school:
+        one: "مدرسة"
+        other: "مدارس"
+      sub_order:
+        one: "طلب جزئي"
+        other: "طلبات جزئية"
+      user:
+        one: "مستخدم"
+        other: "مستخدمين"
+      user_notification:
+        one: "إشعار المستخدم"
+        other: "إشعارات المستخدم"
+      vacancy:
+        one: "إجازة"
+        other: "إجازات"
+      neighborhood:
+        one: "حي"
+        other: "أحياء"
+    attributes:
+      neighborhood:
+        id: "المعرف"
+        region_id: "المنطقة"
+        name_en: "الاسم (بالإنجليزية)"
+        name_ar: "الاسم (بالعربية)"
+        created_at: "تاريخ الإنشاء"
+        updated_at: "تاريخ التعديل"
+      user:
+        first_name: "الاسم الأول"
+        last_name: "الاسم الأخير"
+        email: "البريد الإلكتروني"
+        encrypted_password: "كلمة المرور المشفرة"
+        reset_password_token: "رمز إعادة تعيين كلمة المرور"
+        reset_password_sent_at: "تاريخ إرسال رمز إعادة تعيين كلمة المرور"
+        remember_created_at: "تاريخ الإنشاء المتذكر"
+        unconfirmed_mobile_number: "رقم الهاتف المحمول غير المؤكد"
+        mobile_number: "رقم الهاتف المحمول"
+        is_verified: "تم التحقق"
+        notifications_enabled: 'الإشعارات ممكّنة'
+        created_at: 'تاريخ الإنشاء'
+        updated_at: 'تاريخ التحديث'
+        confirmation_token: 'رمز التأكيد'
+        confirmation_sent_at: 'تاريخ إرسال التأكيد'
+
+      device:
+        authenticable_type: 'نوع المصادق'
+        authenticable_id: 'معرف المصادق'
+        uuid: 'المعرف الفريد'
+        logged_out: 'تم تسجيل الخروج'
+        locale: 'اللغة'
+        fcm_token: 'رمز FCM'
+        created_at: 'تاريخ الإنشاء'
+        updated_at: 'تاريخ التحديث'
+
+      country:
+        name_en: "الاسم البلد باللغة الانجليزية"
+        name_ar: "اسم البلد باللغة العربية"
+        created_at: 'تاريخ الإنشاء'
+        updated_at: 'تاريخ التحديث'
+
+      city:
+        country_id: ' البلد'
+        name: 'الاسم'
+        created_at: 'تاريخ الإنشاء'
+        updated_at: 'تاريخ التحديث'
+
+      admin_user:
+        email: 'البريد الإلكتروني'
+        encrypted_password: 'كلمة المرور المشفرة'
+        reset_password_token: 'رمز إعادة تعيين كلمة المرور'
+        reset_password_sent_at: 'تاريخ إرسال رمز إعادة تعيين كلمة المرور'
+        remember_created_at: 'تاريخ الإنشاء المتذكر'
+        admin_user_type: 'نوع مستخدم المسؤول'
+        created_at: 'تاريخ الإنشاء'
+        updated_at: 'تاريخ التحديث'
+
+      active_admin_comment:
+        namespace: 'المساحة'
+        body: 'المحتوى'
+        resource_type: 'نوع المورد'
+        resource_id: ' المورد'
+        author_type: 'نوع المؤلف'
+        author_id: 'معرف المؤلف'
+        created_at: 'تاريخ الإنشاء'
+        updated_at: 'تاريخ التحديث'
+
+      active_storage_attachment:
+        name_en: "الاسم باللغة الانجليزية"
+        name_ar: "الاسم باللغة العربية"
+        record_type: 'نوع السجل'
+        record_id: 'معرف السجل'
+        blob_id: 'معرف الكتلة'
+        created_at: 'تاريخ الإنشاء'
+
+      active_storage_blob:
+        key: 'المفتاح'
+        filename: 'اسم الملف'
+        content_type: 'نوع المحتوى'
+        metadata: 'البيانات الوصفية'
+        service_name: 'اسم الخدمة'
+        byte_size: 'حجم البايت'
+        checksum: 'التحقق من سلامة البيانات'
+        created_at: 'تاريخ الإنشاء'
+
+      address:
+        region_id: ' المنطقة'
+        street_name: 'اسم الشارع'
+        building_name: 'اسم المبنى'
+        landmark: 'علامة مميزة'
+        created_at: 'تاريخ الإنشاء'
+        updated_at: 'تاريخ التحديث'
+        addressable_type: 'نوع القابلية للعناوين'
+        addressable_id: 'معرف القابلية للعناوين'
+        lat: 'خط العرض'
+        long: 'خط الطول'
+        full_address: 'العنوان الكامل'
+
+      applicant:
+        user_id: 'معرف المستخدم'
+        school_id: ' المدرسة'
+        name: "الاسم"
+        name_ar: "الاسم باللغة العربية"
+        education_level: 'مستوى التعليم'
+        medical_issue_description: 'وصف المشكلة الطبية'
+        created_at: 'تاريخ الإنشاء'
+        updated_at: 'تاريخ التحديث'
+
+      applicant_medical_issue:
+        applicant_id: "معرف الطالب"
+        applicant: "الطالب"
+        medical_issue_id: "معرف المشكلة الطبية"
+        medical_issue: "المشكلة الطبية"
+        name: "الإسم"
+        created_at: "وقت الانشاء"
+        updated_at: "اخر تعديل"
+      comment:
+        author_type: "Author type"
+        body: "Body"
+        created_at: "وقت الانشاء"
+        namespace: "Namespace"
+        resource_type: "Resource type"
+        updated_at: "اخر تعديل"
+  
+      meal:
+        admin_user_id: 'معرف مستخدم المسؤول'
+        description: 'الوصف'
+        created_at: 'تاريخ الإنشاء'
+        updated_at: 'تاريخ التحديث'
+
+      medical_issue:
+        name_en: "الاسم باللغة الانجليزية"
+        name_ar: "الاسم باللغة العربية"
+        created_at: 'تاريخ الإنشاء'
+        updated_at: 'تاريخ التحديث'
+
+      notification:
+        title_en: "العنوان باللغة الإنجليزية"
+        title_ar: "العنوان باللغة العربية"
+        message_en: "الرسالة باللغة الإنجليزية"
+        message_ar: "الرسالة باللغة العربية"
+        notification_type: "نوع الإشعار"
+        notifier_type: "نوع صاحب الإشعار"
+        notifier_id: "معرف صاحب الإشعار"
+        data: "البيانات"
+        data_id: "معرف البيانات"
+        need_action: "يحتاج إجراء"
+        created_at: "وقت الانشاء"
+        updated_at: "اخر تعديل"
+      official_vacation:
+        country_id: "معرف الدولة"
+        country: "الدولة"
+        name: "الإسم"        
+        name_en: "اسم العطلة الرسمية (بالإنجليزية)"
+        name_ar: "اسم العطلة الرسمية (بالعربية)"
+        date: "التاريخ"
+        created_at: 'تاريخ الإنشاء'
+        updated_at: 'تاريخ التحديث'
+
+      order:
+        user_id: 'معرف المستخدم'
+        created_at: 'تاريخ الإنشاء'
+        updated_at: 'تاريخ التحديث'
+        package_id: 'معرف الحزمة'
+        subscription_status: 'حالة الاشتراك'
+
+      package:
+        name_en: "الاسم باللغة الانجليزية"
+        name_ar: "الاسم باللغة العربية"
+        price: 'السعر'
+        country_id: ' البلد'
+        created_at: 'تاريخ الإنشاء'
+        updated_at: 'تاريخ التحديث'
+        rate: 'التقييم'
+        image_url: 'رابط الصورة'
+
+      package_meal:
+        package_id: "معرف الحزمة"
+        meal_id: "معرف الوجبة"
+        package: "الحزمة"
+        meal: "الوجبة"
+        created_at: "وقت الانشاء"
+        updated_at: "اخر تعديل"
+
+
+      pre_registered_user:
+        first_name: 'الاسم الأول'
+        last_name: 'الاسم الأخير'
+        email: 'البريد الإلكتروني'
+        phone_number: 'رقم الهاتف'
+        created_at: 'تاريخ الإنشاء'
+        updated_at: 'تاريخ التحديث'
+
+      region:
+        city_id: ' المدينة'
+        city: ' المدينة'
+        name_en: "الاسم باللغة الانجليزية"
+        name_ar: "الاسم باللغة العربية"
+        created_at: 'تاريخ الإنشاء'
+        updated_at: 'تاريخ التحديث'
+
+      review:
+        user_id: 'معرف المستخدم'
+        description: 'الوصف'
+        rate: 'التقييم'
+        sub_order_id: 'معرف الطلب الفرعي'
+        created_at: 'تاريخ الإنشاء'
+        updated_at: 'تاريخ التحديث'
+
+      school:
+        name_en: "الاسم باللغة الانجليزية"
+        name_ar: "الاسم باللغة العربية"
+        name: "الإسم"
+        created_at: 'تاريخ الإنشاء'
+        updated_at: 'تاريخ التحديث'
+
+      sub_order:
+        order_id: 'معرف الطلب'
+        applicant_id: 'معرف مقدم الطلب'
+        num_of_months: 'عدد الأشهر'
+        start_date: 'تاريخ البدء'
+        expiration_status: 'حالة انتهاء الصلاحية'
+        created_at: 'تاريخ الإنشاء'
+        updated_at: 'تاريخ التحديث'
+
+      user_notification:
+        notification_id: 'معرف الإخطار'
+        is_seen: 'تمت المشاهدة'
+        seen_time: 'وقت المشاهدة'
+        notified_type: 'نوع الإخطار'
+        notified_id: 'معرف الإخطار'
+        created_at: 'تاريخ الإنشاء'
+        updated_at: 'تاريخ التحديث'
+
+      vacancy:
+        sub_order_id: "معرف الطلب الجزئي"
+        sub_order: "الطلب الجزئي"
+        date: "التاريخ"
+        created_at: "وقت الانشاء"
+        updated_at: "اخر تعديل"
+
+
+  active_admin:
+    dashboard: "لوحة تحكم"
+    dashboard_welcome:
+      welcome: "مرحبًا بك في في صفحة الإدارة، وهذه هي الصفحة الإفتراضيّة."
+      call_to_action: "لإضافة أقسام إلى  لوحة التحكم, راجع: 'app/admin/dashboard.rb'"
+    view: "عرض"
+    edit: "تعديل"
+    delete: "حذف"
+    delete_confirmation: "هل تريد تأكيد الحذف؟"
+    new_model: "%{model} جديد"
+    edit_model: "تعديل %{model}"
+    delete_model: "حذف %{model}"
+    details: "تفاصيل %{model}"
+    cancel: "إلغاء"
+    empty: "فارغ"
+    previous: "السابق"
+    next: "التالي"
+    download: "تحميل"
+    has_many_new: "إضافة %{model} جديد"
+    has_many_delete: "حذف"
+    has_many_remove: "إزالة"
+    filters:
+      buttons:
+        filter: "تصفية"
+        clear: "تفريغ التصفية"
+      predicates:
+        contains: "يحتوي"
+        equals: "متساوي"
+        starts_with: "يبدأ بـ"
+        ends_with: "ينتهي بـ"
+        greater_than: "أكبر من"
+        less_than: "أقل من"
+    search_status:
+      headline: "حالات البحث:"
+      current_scope: "المجال:"
+      current_filters: "المُرشحات الحاليّة:"
+      no_current_filters: "بدون"
+    status_tag:
+      "yes": "نعم"
+      "no": "لا"
+      "unset": "لا"
+    main_content: "الرجاء تنفيذ %{model}#main_content لعرض المحتوى."
+    logout: "تسجيل الخروج"
+    powered_by: "تنفيذ %{active_admin} %{version}"
+    sidebars:
+      filters: "المُرشحات"
+      search_status: "حالات البحث"
+    pagination:
+      empty: "لا يوجد %{model} "
+      one: "عرض <b>1</b> %{model}"
+      one_page: "عرض <b>all %{n}</b> %{model}"
+      multiple: "عرض %{model} <b>%{from}&nbsp;-&nbsp;%{to}</b> من <b>%{total}</b> بالمجمل"
+      multiple_without_total: "عرض %{model} <b>%{from}&nbsp;-&nbsp;%{to}</b>"
+      entry:
+        one: "مدخل"
+        other: "مدخلات"
+    any: "أي"
+    blank_slate:
+      content: "لايوجد %{resource_name} بعد."
+      link: "إنشاء"
+    dropdown_actions:
+      button_label: "إجراءات"
+    batch_actions:
+      button_label: "إجراءات متعددة"
+      default_confirmation: "هل أنت متأكّد؟"
+      delete_confirmation: "هل أنت متأكّد من حذف هذه %{plural_model}؟"
+      succesfully_destroyed:
+        one: "حُذف بنجاح 1 %{model}"
+        other: "حُذف بنجاح %{count} %{plural_model}"
+      selection_toggle_explanation: "(تتبيث الخيار)"
+      action_label: "اُختير %{title}"
+      labels:
+        destroy: "حذف"
+    comments:
+      resource_type: "نوع المصدر"
+      author_type: "نوع الؤلّف"
+      body: "هيكل"
+      author: "مؤلّف"
+      add: "إضافة تعليق"
+      resource: "مصدر"
+      no_comments_yet: "لا يوجد تعليقات بعد."
+      author_missing: "مجهول"
+      title_content: "تعليقات (%{count})"
+      errors:
+        empty_text: "لم يُحفظ التعليق، النص فارغ."
+      created_at: "أُنشئ"
+      delete: "حذف تعليق"
+      delete_confirmation: "هل أنت متأكّد من حذف هذه التعليقات؟"
+    devise:
+      username:
+        title: "اسم المستخدم"
+      email:
+        title: "البريد الإلكترونيّ"
+      subdomain:
+        title: "مجال فرعي"
+      password:
+        title: "كلمة المرور"
+      sign_up:
+        title: "تسجيل"
+        submit: "تسجيل"
+      login:
+        title: "تسجيل الدخول"
+        remember_me: "تذكرني"
+        submit: "تسجيل الدخول"
+      reset_password:
+        title: "هل نسيت كلمة المرور؟"
+        submit: "استرجاع كلمة المرور"
+      change_password:
+        title: "تغير كلمة المرور خاصتك"
+        submit: "تغير كلمة المرور خاصتي"
+      unlock:
+        title: "إعادة إرسال تعليمات فك الحظر"
+        submit: "إعادة إرسال تعليمات فك الحظر"
+      resend_confirmation_instructions:
+        title: "إعادة ارسال تعليمات التأكيد"
+        submit: "إعادة ارسال تعليمات التأكيد"
+      links:
+        sign_up: "التسجيل"
+        sign_in: "تسجيل الدخول"
+        forgot_your_password: "هل نسيت كلمة المرور؟"
+        sign_in_with_omniauth_provider: "تسجيل الدخول بـ %{provider}"
+        resend_unlock_instructions: "إعادة إرسال تعليمات تنشيط الحساب"
+        resend_confirmation_instructions: "إعادة إرسال تعليمات تأكيد الحساب"
+    unsupported_browser:
+      headline: "يُرجى مُلاحظة أن (أكتف أدمن) لم تعد تدعم المُتصفّح إنترنت اكسبلوررالإصدار الثامن وما قبله"
+      recommendation: "ننصح بالتحديث إلى الإصدارات الأخيرة من: <a href=\"http://windows.microsoft.com/ie\">Internet Explorer</a>, <a href=\"https://chrome.google.com/\">Google Chrome</a>, أو <a href=\"https://mozilla.org/firefox/\">Firefox</a>."
+      turn_off_compatibility_view: "إن كنت تستخدم الإصدار التاسع وما يليه من إنترنت إكسبلورر تأكّد من <a href=\"https://support.microsoft.com/ar-ae/help/17471\">تعطيل \"Compatibility View\"</a>."
+    access_denied:
+      message: "لم يُصرّح لك بهذا الإجراء."
+    index_list:
+      table: "جدول"
+      block: "قائمة"
+      grid: "شبكة"
+      blog: "مدونة"
+  time:
+    formats:
+      long: "%Y-%m-%d %H:%M:%S"

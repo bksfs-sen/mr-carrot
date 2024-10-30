@@ -1,0 +1,6 @@
+const userTypes = {
+  GET_USER_SUCCESS: "GET_USER_SUCCESS",
+  USER_LOADING: "GET_USER_LOADING",
+  EDIT_USER_SUCCESS: "EDIT_USER_SUCCESS",
+};
+export default userTypes;

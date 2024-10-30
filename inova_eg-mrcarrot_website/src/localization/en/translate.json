@@ -1,0 +1,716 @@
+{
+  "translations": {
+    "esolar": {
+      "about": "We have provided a control system based on scientific foundations that achieve the highest levels of safety and quality required by international standards through our factory with an area exceed of 5,000 cubic meters and produces more than 40 tons per day of fresh products, besides an integrated logistical service through our fleet to ensure that it reaches the customer in an easy and high-quality way"
+    },
+    "Welcome": "TRAINING COURSES, BOOKS",
+    "banner": "MAKE YOUR HEALTHY BODY STRONG IS OUR RESPONSIBILITY",
+    "navbar": {
+      "home": "Home",
+      "aboutUs": "About us",
+      "contactUs": "Contact us"
+    },
+
+    "aboutUs": {
+      "title": "Who We Are",
+      "desc": "Salla Ghadha Catering Services was founded in 2022 with the goal of providing comprehensive, healthy meals for children under the brand name 'Mr. Carrot.' Our mission is to improve the quality of nutrition for children in schools and homes. We strive to be the first choice for parents and schools that care about the health and well-being of children.",
+      "AboutUsData": {
+        "data_1": {
+          "title": "Vision",
+          "details": "To become the leader in providing healthy and balanced meals for children, contributing to the creation of a healthy and strong generation with good dietary habits."
+        },
+        "data_2": {
+          "title": "Mission",
+          "details": "To provide healthy and safe meals for children using fresh, high-quality ingredients while considering the specific nutritional needs of each child, and to contribute to educating the community about the importance of healthy nutrition."
+        },
+        "data_3": {
+          "title": "Specific Goals",
+          "details_1": "Improving children's health: Providing balanced meals that contribute to healthy and sound growth for children.",
+          "details_2": "Educating the community: Raising awareness about the importance of healthy nutrition for children and its impact on their overall health.",
+          "details_3": "Market expansion: Reaching as many schools and families as possible in different regions."
+        },
+        "data_4": {
+          "title": "Values and Principles",
+          "details_1": "Health and Safety: We prioritize children's health and safety above all.",
+          "details_2": "Quality: We are committed to delivering the best products and services at the highest levels of quality.",
+          "details_3": "Trust: We build relationships based on trust with parents and schools.",
+          "details_4": "Innovation: We continuously seek new and innovative ways to improve our services and products."
+        },
+        "data_5": {
+          "title": "Mr. Carrot's Social Responsibility",
+          "details": "In today's world, corporate social responsibility (CSR) has become an essential part of business strategies. With growing consumer awareness of the social and environmental roles of companies, many companies are adopting responsible practices that go beyond just offering products and services. Mr. Carrot, provided by Salla Ghadha Catering Services, is a great example of a company that integrates high-quality services with community contributions."
+        },          
+        "data_6": {
+          "title": "The Importance of Social Responsibility for Mr. Carrot",
+          "details": "By offering healthy meals to children, Mr. Carrot adopts a vision aimed at improving children's health and dietary habits. Some of the key aspects of Mr. Carrot's social responsibility include:",
+          "details_title_1": "Providing healthy and balanced meals:",
+          "details_1": "Mr. Carrot offers balanced meals that meet children's nutritional needs, contributing to their overall health and proper growth. With careful attention to nutritional details, Mr. Carrot strives to combat obesity and childhood diseases caused by poor nutrition.",
+          "details_title_2": "Catering to special health needs:",
+          "details_2": "Mr. Carrot provides three different meal plans: one for healthy children, one for children with chronic illnesses, and one for children with food allergies. This variety ensures that all children's needs are met and reflects Mr. Carrot's commitment to offering safe and healthy meals for everyone.",
+          "details_title_3": "Nutritional awareness:",
+          "details_3": "Mr. Carrot aims to raise awareness among children and parents about the importance of proper nutrition and its effect on general health. This includes distributing educational materials and organizing interactive workshops to enhance children's understanding of healthy eating.",
+          "details_title_4": "Supporting local communities:",
+          "details_4": "Mr. Carrot supports local communities by collaborating with local suppliers to ensure fresh, high-quality ingredients. This collaboration helps support the local economy and reduces the carbon footprint associated with transportation."
+        },
+        "data_7": {
+          "title": "Mr. Carrot's Commitment to Transparency and Credibility",
+          "details": "Mr. Carrot emphasizes the importance of transparency in all aspects of its operations. The company provides clear and accurate information about meal ingredients and asks parents to provide accurate health information about their children to ensure the delivery of safe and appropriate meals. Additionally, the company allows subscription suspension or cancellation based on a clear and transparent policy, reinforcing customer trust."
+        },
+        "conclusion": {
+          "title": "Conclusion",
+          "details": "Mr. Carrot's commitment to social responsibility extends beyond offering high-quality meals; it also includes a broader positive impact on society and the environment. By adopting sustainable and responsible practices, Mr. Carrot contributes to building a healthy and thriving community and serves as a role model in the catering services sector."
+        }        
+      }
+    },
+    "home": {
+      "whyChooseUs": "Why Choose us?",
+      "ourServices": "Our Services",
+      "bannerTitle": "Taste the healthy difference",
+      "bannerDesc": "Let us help you to keep your children healthy",
+      "getStarted": "Get Started",
+      "services": {
+        "service_1": "Providing healthy meals (breakfast - lunch) from 4 to 18 years old",
+        "service_2": "Caring for the nutritional health of diabetic children and other chronic diseases",
+        "service_3": "Deliver  healthy meals for children to schools daily"
+      },
+      "freshIngredients": "Fresh ingredients",
+      "adorableTaste": "Adorable taste",
+      "finestQuality": "Finest quality",
+      "aboutUsTitle": "100% healthy food",
+      "aboutUsSubTitle": "Your children healthy life grows here!",
+      "aboutUsDesc": "A Saudi institution for operating canteens and cafeterias on the basis of a specific franchise, which includes (canteens and cafeterias in factories, offices, hospitals, and schools)",
+      "aboutUs": "About us",
+      "joinUsNow": "Join Us Now"
+    },
+    "contactUs": {
+      "title": "Need  help?",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum is simply dummy text of the printing and typesetting industry ",
+      "location": "Riyadh, Saudi Arabia",
+      "phone": "0123456789",
+      "day": "Sat - Thu",
+      "time": "Sunday - Thursday 9 Am -10 Pm",
+      "getInTouch": "Get in touch",
+      "firstName": "First Name",
+      "emailAddress": "Email address",
+      "yourMessage": "Your message ...",
+      "send": "Send",
+      "offDay": "Friday Off",
+      "saturday": "Saturday 1 Pm - 5 Pm",
+      "organizationName": "Establishment Sallah Ghidha' Subsistence Services",
+      "commercialRegisteration": "Carrying commercial registration No. 1010807006",
+      "taxNumber": "Tax Number 311322093900003"
+    },
+    "preRegister": {
+      "firstName": "First Name",
+      "lastName": "Last name",
+      "emailAddress": "Email address",
+      "mobileNumber": "Mobile number",
+      "preRegister": "Pre-register"
+    },
+    "signupPage": {
+      "title": "Welcome to Mr. Carrot!",
+      "subTitle": "Register your account",
+      "link": "Sign in"
+    },
+    "signinPage": {
+      "title": "Welcome back!",
+      "subTitle": "Sign in to your account",
+      "link": "Sign up",
+      "forgotPassword": "Forget Password?",
+      "acceptTerms1": "You confirm that you agree to our",
+      "acceptTerms2": "Terms and Privacy policy",
+      "acceptTerms3": "",
+      "acceptTermsError": "You should accept terms and privacy policy"
+    },
+    "termsAndPrivacyPolicy": {
+      "introductionDescription": "Welcome to 'Mr Carrot' website. We are committed to providing healthy meals for children and promoting good nutrition. By using this website, you agree to abide by our policies and terms. Please read this document carefully to ensure that you fully understand your rights and obligations when using our services.",
+      "privacyPolicy": "Privacy Policy",
+      "collectionOfInformation": "Collection of Information",
+      "collectionOfInformationDescription1": "We collect personal information such as name, email, contact number, home address and school address via map when you register or place an order.",
+      "collectionOfInformationDescription2": "We also collect additional information such as health information specific to the child to improve the service provided.",
+      "useOfInformation": "Use of Information",
+      "useOfInformationDescription1": "We use personal information to fulfill meal requests, communicate with customers, and improve our services.",
+      "useOfInformationDescription2": "We may use the information to analyze trends and improve user experience.",
+      "sharingInformation": "Information Sharing",
+      "sharingInformationDescription": "We do not share your personal information with any third party unless it is necessary to fulfill your request or required by law.",
+      "informationSecurity": "Information Security",
+      "informationSecurityDescription1": "We take security measures to protect personal information from unauthorized access, use, or disclosure.",
+      "informationSecurityDescription2": "We use encryption technologies and security measures to protect your data.",
+      "userRights": "User Rights",
+      "userRightsDescription1": "User has the right to access and update personal information at any time.",
+      "userRightsDescription2": "User has the right to request deletion of personal information unless there is a legal reason to retain it.",
+      "termsAndConditions": "Terms and Conditions",
+      "registrationAndAccount": "Registration and Account",
+      "registrationAndAccountDescription1": "Users must provide accurate and complete information when Registration.",
+      "registrationAndAccountDescription2": "The user is committed to maintaining the confidentiality of account information and not sharing login data with others.",
+      "ordersAndPayment": "Orders and Payment",
+      "ordersAndPaymentDescription1": "Orders can be placed through the site using the available payment methods.",
+      "ordersAndPaymentDescription2": "All orders must be paid in advance, and we only accept secure payment methods.",
+      "deliveryAndReceipt": "Delivery and pickup",
+      "deliveryAndReceiptDescription1": "We are committed to delivering meals on time to the specified address.",
+      "deliveryAndReceiptDescription2": "In the event of any unexpected delay, we will inform you as soon as possible.",
+      "cancellationAndRefund": "Cancellation and Refund",
+      "cancellationAndRefundDescription1": "The order cannot be canceled before the specified delivery date by at least 48 hours.",
+      "cancellationAndRefundDescription2": "It is Refund in case of cancellation according to our refund policy.",
+      "cancellationAndRefundDescription3": "Subscription cannot be cancelled after 72 hours of subscription.",
+      "monthlySubscription": "Monthly Subscription",
+      "monthlySubscriptionDescription1": "Subscription period is 22 school days.",
+      "monthlySubscriptionDescription2": "Monthly subscription can be paused by request submitted 48 hours before the specified day.",
+      "monthlySubscriptionDescription3": "The user has the right to request to pause the subscription for 3 days only, and the subscription will be effective again after this period.",
+      "monthlySubscriptionDescription4": "The user has the right to request to pause the subscription once a month.",
+      "availablePackages": "Available Packages",
+      "availablePackagesDescription1": "We have three packages:",
+      "availablePackagesDescription11": "Healthy children.",
+      "availablePackagesDescription12": "Children with chronic diseases.",
+      "availablePackagesDescription13": "Children with food allergies.",
+      "availablePackagesDescription2": "We are keen to provide meals tailored to each category according to their health needs.",
+      "availablePackagesDescription3": "We provide a health questionnaire to ensure that the meal we provide is suitable for the child's health condition.",
+      "responsibilityAndGuarantees": "Responsibility and Guarantees",
+      "responsibilityAndGuaranteesDescription": "We are committed to providing healthy and safe meals for children. We are not responsible for any unannounced allergic reactions or the provision of inaccurate health information from the parent.",
+      "modificationsAndUpdates": "Modifications and Updates",
+      "modificationsAndUpdatesDescription": "We reserve the right to modify this policy and terms at any time. Users will be notified of any changes via email or through the Site.",
+      "contactUs": "Contact Us",
+      "contactUsDescription": "If you have any questions or concerns about our policy and terms, please contact us via:"
+    },
+    "verificationPage": {
+      "title": "Enter a verification code",
+      "subTitle": "Enter the verification code we just sent you on your mobile number",
+      "link": "Enter the verification code we just sent you on your mobile number",
+      "codeHint": "It may take a minute to receive the code, Haven't received it?",
+      "resend": " Re-send code"
+    },
+    "forgotPasswordPage": {
+      "title": "Create new password",
+      "subTitle": "Please  set your new password"
+    },
+    "emptyState": {
+      "applicant": {
+        "title": "No students yet",
+        "description": "Looks like you don't have any students",
+        "button": "Add student"
+      },
+      "package": {
+        "title": "No packages Yet",
+        "description": "Looks like you haven't selected any packages.",
+        "button": "Back to home"
+      },
+      "currentorders": {
+        "title": "No current orders yet",
+        "description": "Looks like you haven't made your order, choose from our packages and order now.",
+        "button": "Back to home"
+      },
+      "historicalOrders": {
+        "title": "No historical orders yet",
+        "description": "Looks like you haven't made any orders, choose from our packages and order now.",
+        "button": "Back to home"
+      }
+    },
+    "applicantForm": {
+      "Add Applicant": "Add Student",
+      "addNewApplicant": "Add new Student",
+      "Edit Applicant": "Edit Student",
+      "Applicant name": "Student Name",
+      "School name": "School name",
+      "Educational level": "Educational level",
+      "Health issue": "Health issue ",
+      "Health Issue Description": "Type a description about a health issue ",
+      "Home Address": "Home Address",
+      "School Address": "School Address",
+      "Area": "Area",
+      "Street Name": "Street Name",
+      "Building name": "Building name/number",
+      "Landmark": "Landmark/note",
+      "Save": "Save",
+      "Back": "Back"
+    },
+    "applicantsData": {
+      "Applicants Data": "Students Data",
+      "Applicant Name": "Student Name",
+      "School Name": "School Name",
+      "Educational Level": "Educational Level",
+      "Health Issue": "Health Issue",
+      "Health Issue Description": "Health Issue Description",
+      "Home Address": "Home Address",
+      "School Address": "School Address",
+      "Add Another Applicant": "Add Another Student",
+      "Delete Confirm": "Are you sure you want to delete student?"
+    },
+    "sideNav": {
+      "My Account": "My Account",
+      "Account": "Account",
+      "Applicants": "Students",
+      "Payment": "Payment",
+      "My Orders": "My Orders",
+      "Current Orders": "Current Orders",
+      "History": "Historical Orders",
+      "Log out": "Log out"
+    },
+    "calendar": {
+      "currentOrdersTitle": "Click on day you want to cancel recieving the meal on.",
+      "cartTitle": "Please select a sunday as start date.",
+      "weekend": "Weekend",
+      "noMonths": "No. Months",
+      "offDay": "Off day",
+      "offDaySuccessMsg": "Off day has been added successfully."
+    },
+    "packages": {
+      "title": "Our Packages",
+      "subTitle": "Each package provides 5 different meals, each meal contains all the integrated nutrients your child will recieve a meal of them daily in exchange.",
+      "subscribe": "Subscribe",
+      "perMonth": "Per month",
+      "showMore": "Show more",
+      "showLess": "Show less",
+      "chooseApplicant": "Choose student"
+    },
+    "loginBtn": {
+      "Signin": "Sign In",
+      "Signup": "Sign Up",
+      "or": "or",
+      "createAccount": "Create an account free",
+      "Name": "Name",
+      "Your Name": "Your Name",
+      "Your Phone Number": "Your Phone Number",
+      "phone": "Phone Number",
+      "Email": "Email",
+      "Password": "Password",
+      "ConfirmPassword": "Confirm Password",
+      "haveaccount": "Already have an account?",
+      "donthaveaccount": "New Member?"
+    },
+    "search": {
+      "NoResult": "No Results were Found!"
+    },
+    "general": {
+      "submit": "Submit",
+      "pay": "Pay",
+      "or": "or",
+      "add": "ADD",
+      "edit": "Edit",
+      "delete": "Delete",
+      "Add New": "Add New",
+      "Add Card": "Add Card",
+      "Cancel": "Cancel",
+      "Sign Out": "Sign Out",
+      "logoutText": "You can always access your content by  singing back in ",
+      "items": "items",
+      "apply": "APPLY",
+      "tryAgain": "Try again"
+    },
+    "product": {
+      "pages": "Pages",
+      "page": "Page",
+      "bookmark": "Bookmark",
+      "Content": "Content",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "productOverview": {
+      "About": "About",
+      "Author": "Author",
+      "Reviews": "Reviews",
+      "description": "Descriptions",
+      "showDetails": "Show Details",
+      "inCart": "In Cart",
+      "Content": "Content",
+      "Level": "Level"
+    },
+    "placeholder": {
+      "What your are Looking for?": "What your are Looking for?"
+    },
+    "news": {
+      "filterTopics": "Filter Topics",
+      "noNewsAvailable": "No News Available",
+      "latestNews": "LATEST NEWS",
+      "popularNews": "POPULAR NEWS"
+    },
+    "footer": {
+      "newsLetterSubscription": "News letter subscription",
+      "emailAddress": "E-mail address",
+      "subscribe": "Subscribe",
+      "followUs": "Follow us",
+      "developedBy": "Developed by"
+    },
+    "Profile": {
+      "General Information": "General Information",
+      "Security": "Security",
+      "MyAccount": "My Account",
+      "MyOrders": "My Orders",
+      "Review Product": "Review Product",
+      "MyBoxes": "My Boxes",
+      "MyItems": "My Items",
+      "DanRewards": "Dan Rewards",
+      "Rewards": "Rewards",
+      "MyAddresses": "My Addresses",
+      "MyPayment": "My Payment",
+      "Edit": "Edit",
+      "LogOut": "Log out",
+      "Switch": "Switch to ",
+      "logoutConfirm": "Are you sure you want to logout?"
+    },
+    "address": {
+      "Add New Address": "Add New Address",
+      "Edit Address": "Edit Address",
+      "Address": "Address",
+      "Write Your Address": "Write Your Address",
+      "change address": "Change Address",
+      "Name": "Name",
+      "Last Name": "Last Name",
+      "Country": "Country",
+      "City": "City",
+      "Zip Code": "Zip Code",
+      "State Name": "State Name",
+      "Country ISO": "Country ISO",
+      "Country ISO3": "Country ISO3",
+      "Label": "Label",
+      "State Code": "State Code",
+      "Phone Number": "Phone Number",
+      "Address1": "Address 1",
+      "Address2": "Address 2"
+    },
+    "reward": {
+      "Your point": "Your point",
+      "value": "Value"
+    },
+    "order": {
+      "Deliver Address": "Deliver Address",
+      "Payment Method": "Payment Method",
+      "Order Summery": "Order summary",
+      "applicantName": "Student name",
+      "startDate": "Start date",
+      "numOfMonths": "No. of months",
+      "paymentSummary": "Payment summary",
+      "total": "Total",
+      "vat": "VAT",
+      "subtotal": "Subtotal",
+      "Rate This item": "Rate This item",
+      "Write your Feedback": "Write your Feedback",
+      "what your experience": "what your experience",
+      "Review This Order": "Review This Order",
+      "In Processing": "In Processing",
+      "Out for delivery": "Out for delivery",
+      "Delivered": "Delivered",
+      "Subtotal": "Subtotal",
+      "Delivery": "Delivery",
+      "Total": "Total (inclusive VAT)",
+      "items": "items",
+      "view details": "View Details",
+      "order number": "Order Number",
+      "delivery date": "Delivery date",
+      "back": "back",
+      "placeOrder": "Place order"
+    },
+    "form": {
+      "ForgetYourPassword": "Forget your Password",
+      "passwordlessthaneight": "* Your Password must be at least 8 characters",
+      "passwordNotMatch": "Passwords are not matching"
+    },
+    "forgetPasswordScreen": {
+      "header": "Forgot Password",
+      "phoneLabel": "Phone number",
+      "confirmBtn": "Confirm",
+      "falsePhoneNumber": "You should enter right phone number",
+      "unregisteredPhoneNumber": "Un-registered Phone Number",
+      "Old Password": "Old Password",
+      "changePassword": "Change Password",
+      "currentPassword": "Current Password",
+      "newPassword": "New password",
+      "confirmNewPassword": "Confirm new password",
+      "save": "Save",
+      "Enternewpassword": "Enter new password",
+      "Entercurrentpassword": "Enter current password"
+    },
+    "pagination": {
+      "Previous": "Previous",
+      "Next": "Next",
+      "Skip": "Skip",
+      "checkout": "Checkout",
+      "Proceed": "Proceed"
+    },
+    "cart": {
+      "title": "Cart",
+      "add": "Add",
+      "orderSummery": "Order Summery",
+      "subtotal": "Subtotal",
+      "items": "items",
+      "discount": "Discount",
+      "total": "Total",
+      "placeOrder": "Place Order",
+      "proceedToCheckout": "Proceed to Checkout",
+      "removeFromCart": "Remove from Cart",
+      "paymentway": "Payment Methods",
+      "cash": "Cash",
+      "card": "Fawry",
+      "orderlist": "Order List",
+      "coursepending": "Pending In",
+      "pending": "Pending",
+      "success": "You’ve purchased",
+      "Successfully": "Successfully",
+      "myCoursesList": "Go to my courses",
+      "datestart": "Start Date",
+      "price": "Price",
+      "trainingcourse": "Courses",
+      "totalprice": "Total",
+      "empty": "Your Cart is empty",
+      "explore": "Explore Courses"
+    },
+    "errors": {
+      "errorAccess": "You cannot access this page"
+    },
+    "editProfileMessages": {
+      "ThesePhoneNumberUsedBefore": "These Phone Number is used before",
+      "PhoneNumberIsInvalid": "Phone Number is invalid",
+      "PleaseEnterYourPhoneNumber": "Please Enter Your Phone Number",
+      "EmailIsAlreadyTaken": "Email is already taken",
+      "EmailIsInvalid": "Email is invalid",
+      "YouShouldEnterYourName": "You should enter your name",
+      "Useraccountupdatedsuccessfully": "User account updated successfully"
+    },
+    "changePasswordMessages": {
+      "changePassword": "Change password",
+      "passwordMismatch": "Password Mismatch",
+      "MissingPasswordORPasswordConfirmation": "Fields can't be empty",
+      "PasswordChanged": "You’ve changed the password",
+      "Great": "Great!",
+      "Successfully": "Successfully"
+    },
+    "shopping": {
+      "title": "Shopping",
+      "seeAll": "See all",
+      "fruits": {
+        "title": "Fruits",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      },
+      "vegetables": {
+        "title": "Vegetables",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      },
+      "boxes": {
+        "title": "Boxes",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      },
+      "mushrooms": {
+        "title": "mushrooms & Herbs",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      },
+      "salads": {
+        "title": "Salads",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      },
+      "more": {
+        "title": "More",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      }
+    },
+    "bestSeller": {
+      "title": "Best Seller",
+      "seeAll": "See all"
+    },
+    "ourAdvantage": {
+      "ourAdvantage": "Our Advantages",
+      "allYear": {
+        "title": "All Year Products",
+        "desc": "We Provide all agricultural products, multiple options of different seasons in whole the year"
+      },
+      "fresh": {
+        "title": "Fresh Cut or Repacked",
+        "desc": "To ensure a perfect customer experience , we have provided a service of prepacked or cutting products"
+      },
+      "delivery": {
+        "title": "Delivery",
+        "desc": "We target all segments both business or individuals to get an enjoyable and exceptional delivery experience"
+      }
+    },
+    "ourProcess": {
+      "title": "About Our Process",
+      "text": "We have provided a control system based on scientific foundations that achieve the highest levels of safety and quality required by international standards through our factory with an area exceed of 5,000 cubic meters and produces more than 40 tons per day of fresh products, besides an integrated logistical service through our fleet to ensure that it reaches the customer in an easy and high-quality way."
+    },
+    "foodSafety": {
+      "title": "Food Safety",
+      "text": "Dan Foods believes in Food Safety. We take Food Safety very seriously. so our customers trust us to provide them with the safest products. We also believe in customer services and always put our valued customers first."
+    },
+    "customersSay": {
+      "title": "What our Customers Say?",
+      "subtitle": "Dan believes delicious, nutritious food is not a luxury. We see it as our responsibility to continually innovate ways to make delicious fruit and vegetables enjoyable and affordable anytime",
+      "review1": {
+        "review": "First Life before Company was very chaotic — we got a lot of phone calls, a lot of mistyped orders. So with Company, the ability to see the order directly from the customer makes it so streamlined.",
+        "by": "Martin Jones, Creative Cons"
+      },
+      "review2": {
+        "review": "Second Life before Company was very chaotic — we got a lot of phone calls, a lot of mistyped orders. So with Company, the ability to see the order directly from the customer makes it so streamlined.",
+        "by": "Martin Jones, Creative Cons"
+      },
+      "review3": {
+        "review": "Third Life before Company was very chaotic — we got a lot of phone calls, a lot of mistyped orders. So with Company, the ability to see the order directly from the customer makes it so streamlined.",
+        "by": "Martin Jones, Creative Cons"
+      }
+    },
+    "ourProfile": {
+      "title": "Download our Profile",
+      "text": "DAN believes delicious, nutritious food is not a luxury. We see it as our responsibility to continually innovate ways to make delicious fruit and vegetables enjoyable and affordable anytime",
+      "download": "Download Now"
+    },
+    "productCard": {
+      "addToCart": "Add to Cart"
+    },
+    "carousel": {
+      "title": "DAN FOODS INDUSTRIES LLC",
+      "text": "DAN's responsibility to innovate ways to make fruits and vegetables enjoyable",
+      "button": "About Us"
+    },
+    "card": {
+      "Add Card": "Add Credit Card",
+      "Edit Card": "Edit Credit Card",
+      "card number": "Card Number",
+      "exp date": "Expiration Date",
+      "secure code": "Security Code",
+      "name": "Name on Card",
+      "zip": "Zip Code"
+    },
+    "product details": {
+      "was": "Was",
+      "now": "Now",
+      "saving": "Saving",
+      "quantity": "Quantity",
+      "share": "Share Product",
+      "description": "Descriptions",
+      "reccomendations": "People Also Viewed",
+      "ratings": "ratings",
+      "ship": "Ship to ",
+      "change country": "Change Country",
+      "deposit": "Deposit to ",
+      "arrives": "Arrives",
+      "fees": "Shipping & Import Fees",
+      "cut type": "Type of cut",
+      "country": "Country",
+      "whats in": "What is in this box?"
+    },
+    "shoppingPage": {
+      "category": "Category",
+      "type": "Type",
+      "sub category": "Sub Category",
+      "price": "Price",
+      "products found": "products found",
+      "collections found": "collections found",
+      "sort by": "Sort by",
+      "high to low": "Price  (High to Low)",
+      "low to high": "Price  (Low to High)",
+      "to": "To",
+      "go": "Go"
+    },
+    "load more": "Load More",
+    "order summary": {
+      "Enter a Promocode": "Enter a Promocode",
+      "Add Dan Rewards Points": "Add Dan Rewards Points",
+      "move to wishlist": "Add to wishlist",
+      "proceed to checkout": "Proceed to checkout"
+    },
+    "myBoxes": {
+      "myBoxes": "My Boxes",
+      "create new box": "Create New Box",
+      "box list": "Box list",
+      "add": "Add",
+      "box name": "Box Name",
+      "name": "name",
+      "quantity": "Quantity",
+      "create": "Create",
+      "box": "unit",
+      "box will match": "unit will match"
+    },
+    "notifications": {
+      "notifications": "Notifications"
+    },
+    "lets talk": "Let's Talk",
+    "faq": "Frequently Asked Questions",
+    "explore": "Explore",
+    "contactus": {
+      "location": "Location",
+      "phone": "Phone",
+      "email": "Email"
+    },
+    "become client": {
+      "phone": "Phone",
+      "email": "Email",
+      "name": "Name",
+      "message": "Message",
+      "send": "SEND",
+      "enter name": "Enter your name here",
+      "enter message": "Your message here",
+      "love": "We’d love to hear from you",
+      "become": "Become a Client"
+    },
+    "become vendor": {
+      "phone": "Phone",
+      "email": "Email",
+      "name": "Name",
+      "message": "Message",
+      "send": "SEND",
+      "enter name": "Enter your name here",
+      "enter message": "Your message here",
+      "love": "We’d love to help you",
+      "become": "Become a Vendor"
+    },
+    "dan kitchen": {
+      "read more": "Read More",
+      "recipes": "Recipes",
+      "Our Blog": "Our Blog",
+      "see more": "See More",
+      "new comment": "New Comment",
+      "people also viewed": "People Also Viewed",
+      "by": "by",
+      "ingredients": "Ingredients",
+      "how to cook": "How to Cook",
+      "additional": "Additional Information",
+      "serving time": "Serving Time",
+      "tags": "Tags",
+      "nutrition": "Nutrition Facts"
+    },
+    "chat": {
+      "head": "Danfoods Customer Services",
+      "reply": "Reply Here",
+      "better": "for a better customer service experience.",
+      "dont": "Don't have an account?",
+      "create": "Create one now"
+    },
+    "checkout": {
+      "title": "Checkout",
+      "method": "Payment Method",
+      "how pay": "How would you like to pay?",
+      "credit": "Credit or Debit Cards",
+      "cod": "Cash on Delivery (COD)",
+      "deliver to": "Deliver To",
+      "review": "Review Your Order",
+      "place order": "Place Order"
+    },
+    "my-account": {
+      "fullname": "Full name",
+      "email": "Email address",
+      "mobileNumber": "Mobile number"
+    },
+    "subscriptionConfirm": {
+      "message": "Thank you for subscribing",
+      "details": "Thank you for your purchase, your order has been received successfully,"
+    },
+    "subscriptionFailed": {
+      "message": "Payment failed !",
+      "details": "The payment was unsuccessful due to an abnormality , please try again or use another payment method."
+    },
+    "notification": {
+      "notifications": "Notifications",
+      "showAllNotifications": "Show all notifications",
+      "loadMoreNotifications": "Load more notifications",
+      "today": "Today",
+      "yesterday": "Yesterday"
+    },
+    "forgetPasswordPage": {
+      "subTitle": "Please enter the mobile number associated with your account to send you a verification code",
+      "sendVerfCode": "Send verification code"
+    },
+    "toaster": {
+      "packageSubscription": "You must sign in first to subscribe to a package."
+    },
+    "deliver": "Deliver to",
+    "Explore our Categories": "Explore our Categories",
+    "Details": "Details",
+    "filter by": "filter by"
+  }
+}

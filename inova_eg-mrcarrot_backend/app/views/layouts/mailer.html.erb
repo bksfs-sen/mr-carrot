@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <style>
+    #mail_body {
+      font-family: 'Poppins', sans-serif;
+      /* Set font family to Poppins */
+      background-color: #F0F3F5;
+      border: 2px solid #556987;
+      margin: 10%;
+      padding: 5%;
+    }
+
+    .logo-container {
+      text-align: center;
+    }
+
+    .logo {
+      margin-top: 20px;
+    }
+
+    .invitation-container {
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    h1 {
+      color: #214761;
+    }
+
+    h2 {
+      color: #556987;
+    }
+
+    strong {
+      font-weight: bold;
+      padding-left: 5px;
+
+    }
+
+    p {
+      color: #556987;
+      font-size: 13px;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="mail_body">
+    <div class="logo-container">
+      <%= image_tag attachments['logo.png'].url, alt: 'Elbaraka logo' , class: 'photos' %>
+        <h1>
+          <%= @subject %>
+        </h1>
+    </div>
+
+
+    <%= yield %>
+  </div>
+</body>
+
+</html>

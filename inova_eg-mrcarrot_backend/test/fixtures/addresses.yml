@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  region: one
+  street_name: MyString
+  building_name: MyString
+  landmark: MyString
+
+two:
+  region: two
+  street_name: MyString
+  building_name: MyString
+  landmark: MyString

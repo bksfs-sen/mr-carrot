@@ -1,0 +1,709 @@
+{
+  "translations": {
+    "esolar": {
+      "about": "قمنا بتوفير نظام تحكم قائم على أسس علمية تحقق أعلى مستويات الأمان والجودة التي تتطلبها المعايير الدولية من خلال مصنعنا بمساحة تتجاوز 5000 متر مكعب وينتج أكثر من 40 طنًا يوميًا من المنتجات الطازجة إلى جانب لوجستي متكامل الخدمة من خلال أسطولنا لضمان وصولها للعميل بطريقة سهلة وعالية الجودة"
+    },
+    "Welcome": "Welcome",
+    "Hello": "أهلاً",
+    "navbar": {
+      "home": "الرئيسية",
+      "aboutUs": "معلومات عنا",
+      "contactUs": "تواصل معنا"
+    },
+    "aboutUs": {
+      "title": "من نحن",
+      "desc": "تأسست مؤسسة سلة غذاء لخدمات الإعاشة في عام 2022 بهدف تقديم وجبات صحية متكاملة للأطفال تحت اسم المنتج 'Mr. Carrot'، وذلك للمساهمة في تحسين جودة التغذية للأطفال في المدارس والمنازل. نسعى لأن نكون الخيار الأول للأهالي والمدارس التي تهتم بصحة الأطفال ورفاهيتهم.",
+      "AboutUsData": {
+        "data_1": {
+          "title": "رؤية المؤسسة",
+          "details": "أن نصبح الرائدين في تقديم وجبات صحية ومتوازنة للأطفال، والمساهمة في بناء جيل صحي وقوي يتمتع بعادات غذائية سليمة."
+        },
+        "data_2": {
+          "title": "رسالة المؤسسة",
+          "details": "تقديم وجبات صحية وآمنة للأطفال من خلال استخدام مكونات طازجة وعالية الجودة، مع مراعاة الاحتياجات الغذائية الخاصة لكل طفل، والمساهمة في تثقيف المجتمع بأهمية التغذية الصحية."
+        },
+        "data_3": {
+          "title": "الأهداف الخاصة",
+          "details_1": "تحسين صحة الأطفال: توفير وجبات غذائية متوازنة تساهم في نمو صحي وسليم للأطفال.",
+          "details_2": "تثقيف المجتمع: نشر الوعي حول أهمية التغذية الصحية للأطفال وتأثيرها على صحتهم العامة.",
+          "details_3": "التوسع في السوق: الوصول إلى أكبر عدد ممكن من المدارس والأسر في مختلف المناطق."
+        },
+        "data_4": {
+          "title": "القيم والمبادئ",
+          "details_1": "الصحة والسلامة: نضع صحة الأطفال وسلامتهم في مقدمة أولوياتنا.",
+          "details_2": "الجودة: نلتزم بتقديم أفضل المنتجات والخدمات بأعلى مستويات الجودة.",
+          "details_3": "الثقة: نبني علاقات مبنية على الثقة مع أولياء الأمور والمدارس.",
+          "details_4": "الابتكار: نبحث دائماً عن طرق جديدة ومبتكرة لتحسين خدماتنا ومنتجاتنا."
+        },
+        "data_5": {
+          "title": "المسؤولية الاجتماعية لمنتج Mr. Carrot",
+          "details": "في عالمنا المعاصر، أصبحت المسؤولية الاجتماعية للشركات (CSR) جزءًا أساسيًا من استراتيجيات الأعمال. ومع تزايد الوعي لدى المستهلكين بأهمية الدور الاجتماعي والبيئي للشركات، تسعى العديد من الشركات إلى تبني ممارسات مسؤولة تتجاوز مجرد تقديم منتجات وخدمات. يعتبر منتج Carrot، المقدم من مؤسسة 'سلة غذاء لخدمات الإعاشة'، مثالًا رائعًا على هذا النوع من الشركات التي تدمج بين تقديم خدمات عالية الجودة والمساهمة في المجتمع."
+        },        
+        "data_6": {
+          "title": "أهمية المسؤولية الاجتماعية لمنتج Mr. Carrot",
+          "details": "من خلال تقديم وجبات صحية للأطفال، يتبنى Carrot رؤية تسعى لتحسين صحة الأطفال ونمط حياتهم الغذائي. ومن أبرز جوانب المسؤولية الاجتماعية لمنتج Mr. Carrot:",
+          "details_title_1": "تقديم وجبات صحية ومتوازنة:",
+          "details_1": "يعمل Carrot على تقديم وجبات غذائية متوازنة تلبي احتياجات الأطفال الغذائية، مما يساهم في تعزيز صحتهم ونموهم السليم. من خلال الاهتمام بالتفاصيل الغذائية، يسعى Carrot إلى مكافحة السمنة وأمراض الأطفال الناتجة عن سوء التغذية.",
+          "details_title_2": "مراعاة الحالات الصحية الخاصة:",
+          "details_2": "يوفر Mr. Carrotثلاث حزم غذائية مخصصة للأطفال الأصحاء، والأطفال الذين يعانون من أمراض مزمنة، والأطفال الذين يعانون من حساسية الطعام. يضمن هذا التنوع تلبية احتياجات جميع الأطفال ويعكس التزام Carrot بتقديم وجبات آمنة وصحية للجميع.",
+          "details_title_3": "التوعية الغذائية:",
+          "details_3": "يسعى Mr. Carrotإلى رفع مستوى الوعي بين الأطفال وأولياء الأمور حول أهمية التغذية السليمة وأثرها على الصحة العامة. يتضمن ذلك توزيع مواد توعوية وتنظيم ورش عمل تفاعلية لتعزيز فهم الأطفال للتغذية السليمة.",
+          "details_title_4": "دعم المجتمعات المحلية:",
+          "details_4": "يعمل Mr. Carrotعلى دعم المجتمعات المحلية من خلال التعاون مع الموردين المحليين لضمان الحصول على مكونات طازجة وعالية الجودة. هذا التعاون يساهم في دعم الاقتصاد المحلي وتقليل البصمة الكربونية الناتجة عن النقل."
+        },
+        "data_7": {
+          "title": "التزام Mr.Carrotبالشفافية والمصداقية",
+          "details": "تؤكد Mr.Carrotعلى أهمية الشفافية في جميع جوانب عملها. تقدم الشركة معلومات واضحة ودقيقة حول مكونات الوجبات، وتطلب من أولياء الأمور تقديم معلومات صحية دقيقة عن أطفالهم لضمان تقديم وجبات آمنة ومناسبة. علاوة على ذلك، تتيح الشركة إمكانية تعليق الاشتراك أو إلغائه بناءً على سياسة واضحة وشفافة، مما يعزز ثقة العملاء."
+        },        
+        "conclusion": {
+          "title": "الخاتمة",
+          "details": "إن التزام Mr. Carrotبالمسؤولية الاجتماعية لا يقتصر على تقديم وجبات غذائية عالية الجودة فحسب، بل يمتد ليشمل تأثيرًا إيجابيًا أوسع على المجتمع والبيئة. من خلال تبني ممارسات مستدامة ومسؤولة، يساهم Mr. Carrot في بناء مجتمع صحي ومزدهر، ويقدم نموذجًا يُحتذى به في مجال خدمات الإعاشة."
+        }
+      }
+    },
+    "home": {
+      "whyChooseUs": "لماذا نحن؟",
+      "ourServices": "خدمتنا",
+      "bannerTitle": "تذوق الاختلاف الصحي",
+      "bannerDesc": "دعنا نساعدك في الحفاظ على صحة أطفالك",
+      "getStarted": "ابدأ الآن",
+      "services": {
+        "service_1": "توفير وجبات صحية (فطور - غداء) من سن 4 إلى 18 سنة",
+        "service_2": "العناية بالصحة الغذائية للأطفال المصابين بالسكري والأمراض المزمنة الأخرى",
+        "service_3": "توصيل وجبات صحية للأطفال إلى المدارس يوميًا"
+      },
+      "freshIngredients": "مقادير طازجة",
+      "adorableTaste": "طعم رائع",
+      "finestQuality": "أفضل نوعية",
+      "aboutUsTitle": "%100 طعام صحي",
+      "aboutUsSubTitle": "هنا تنمو حياة أطفالك الصحية!",
+      "aboutUsDesc": "مؤسسة سعودية لتشغيل المقاصف والكافيتيريات على أساس إمتياز محدد ، يشمل المقاصف والكافيتيريات في المصانع والمكاتب والمستشفيات والمدارس",
+      "aboutUs": "معلومات عنا",
+      "joinUsNow": "انضم إلينا الآن"
+    },
+
+    "contactUs": {
+      "title": "تحتاج الي مساعدة؟",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum is simply dummy text of the printing and typesetting industry ",
+      "location": "الرياض، المملكة العربية السعودية",
+      "phone": "0123456789",
+      "day": "السبت - الخميس",
+      "time": "من الاحد الى الخميس ٨ص - ٥م",
+      "getInTouch": "ابقى على تواصل",
+      "firstName": "الاسم الاول",
+      "emailAddress": "عنوان البريد الالكترونى",
+      "yourMessage": "رسالتك ...",
+      "send": "إرسال",
+      "offDay": "الجمعة اجازة",
+      "saturday": "السبت ١م الى ٥م",
+      "organizationName": "مؤسسة سلة غذاء لخدمات الاعاشة",
+      "commercialRegisteration": "حمل سجل تجاري رقم 1010807006",
+      "taxNumber": "الرقم الضريبي 311322093900003"
+    },
+    "signupPage": {
+      "title": "مرحبا بك في  !Mr.Carrot ",
+      "subTitle": "سجل حسابك",
+      "link": "تسجيل الدخول"
+    },
+    "signinPage": {
+      "title": "مرحباً بعودتك!",
+      "subTitle": "تسجيل الدخول إلى حسابك",
+      "link": "انشئ حساب",
+      "forgotPassword": "هل نسيت كلمة السر؟",
+      "acceptTerms1": "أنت تؤكد موافقتك على",
+      "acceptTerms2": "شروط الاستخدام وسياسة الخصوصية",
+      "acceptTerms3": "الخاصة بنا",
+      "acceptTermsError": "يجب عليك قبول الشروط وسياسة الخصوصية"
+    },
+    "termsAndPrivacyPolicy": {
+      "introductionDescription": "مرحباً بكم في موقع 'Mr Carrot'. نحن ملتزمون بتقديم وجبات صحية للأطفال وتعزيز التغذية السليمة. باستخدامك لهذا الموقع، فإنك توافق على الالتزام بسياساتنا وشروطنا. يرجى قراءة هذه الوثيقة بعناية لضمان فهمك الكامل لحقوقك والتزاماتك عند استخدام خدماتنا.",
+      "privacyPolicy": "سياسة الخصوصية",
+      "collectionOfInformation": "جمع المعلومات",
+      "collectionOfInformationDescription1": "نقوم بجمع المعلومات الشخصية مثل الاسم، البريد الإلكتروني، رقم الاتصال، وعنوان المنزل والمدرسة عبر الخريطة عند التسجيل أو تقديم طلب.",
+      "collectionOfInformationDescription2": "نجمع أيضًا معلومات إضافية مثل معلومات صحية خاصة بالطفل لتحسين الخدمة المقدمة.",
+      "useOfInformation": "استخدام المعلومات",
+      "useOfInformationDescription1": "نستخدم المعلومات الشخصية لتلبية طلبات الوجبات، التواصل مع العملاء، وتحسين خدماتنا.",
+      "useOfInformationDescription2": "قد نستخدم المعلومات لتحليل الاتجاهات وتحسين تجربة المستخدم.",
+      "sharingInformation": "مشاركة المعلومات",
+      "sharingInformationDescription": "لا نشارك معلوماتك الشخصية مع أي طرف ثالث إلا إذا كان ذلك ضرورياً لتلبية طلبك أو إذا كان مطلوباً بموجب القانون.",
+      "informationSecurity": "أمن المعلومات",
+      "informationSecurityDescription1": "نتخذ تدابير أمنية لحماية المعلومات الشخصية من الوصول غير المصرح به، الاستخدام، أو الكشف.",
+      "informationSecurityDescription2": "نستخدم تقنيات التشفير والمعايير الأمنية لحماية بياناتك.",
+      "userRights": "حقوق المستخدم",
+      "userRightsDescription1": "يحق للمستخدم الوصول إلى وتحديث المعلومات الشخصية في أي وقت.",
+      "userRightsDescription2": "يحق للمستخدم طلب حذف المعلومات الشخصية ما لم يكن هناك سبب قانوني للاحتفاظ بها.",
+      "termsAndConditions": " الأحكام والشروط",
+      "registrationAndAccount": "التسجيل والحساب",
+      "registrationAndAccountDescription1": "يجب على المستخدمين تقديم معلومات دقيقة وكاملة عند التسجيل.",
+      "registrationAndAccountDescription2": "يلتزم المستخدم بالحفاظ على سرية معلومات الحساب وعدم مشاركة بيانات الدخول مع الآخرين.",
+      "ordersAndPayment": "الطلبات والدفع",
+      "ordersAndPaymentDescription1": "يمكن تقديم الطلبات عبر الموقع باستخدام الطرق المتاحة للدفع.",
+      "ordersAndPaymentDescription2": "يجب دفع جميع الطلبات مسبقاً، ونقبل طرق الدفع الآمنة فقط.",
+      "deliveryAndReceipt": "التسليم والاستلام",
+      "deliveryAndReceiptDescription1": "نلتزم بتسليم الوجبات في الوقت المحدد إلى العنوان المحدد.",
+      "deliveryAndReceiptDescription2": "في حالة وجود أي تأخير غير متوقع، سنقوم بإبلاغك في أسرع وقت ممكن.",
+      "cancellationAndRefund": "الإلغاء والاسترداد",
+      "cancellationAndRefundDescription1": "لا يمكن إلغاء الطلب قبل موعد التسليم المحدد بمدة لا تقل عن 48 ساعة.",
+      "cancellationAndRefundDescription2": "يتم استرداد المبلغ المدفوع في حالة الإلغاء وفقاً لسياسة الاسترداد الخاصة بنا.",
+      "cancellationAndRefundDescription3": "لا يمكن إلغاء الاشتراك بعد مضي 72 ساعة من الاشتراك.",
+      "monthlySubscription": "الاشتراك الشهري",
+      "monthlySubscriptionDescription1": "مدة الاشتراك هي 22 يوم دراسي.",
+      "monthlySubscriptionDescription2": "يمكن إيقاف الاشتراك الشهري مؤقتًا بطلب يتم تقديمه قبل 48 ساعة من اليوم المحدد.",
+      "monthlySubscriptionDescription3": "يحق للمستخدم طلب إيقاف مؤقت للاشتراك لمدة 3 أيام فقط، ويعود الاشتراك للسريان بعد انتهاء هذه المدة.",
+      "monthlySubscriptionDescription4": "يحق للمستخدم طلب إيقاف مؤقت للاشتراك مرة واحدة في الشهر.",
+      "availablePackages": "الباقات المتاحة",
+      "availablePackagesDescription1": "لدينا ثلاث باقات:",
+      "availablePackagesDescription11": "الأطفال السليمين.",
+      "availablePackagesDescription12": "الأطفال المصابين بالأمراض المزمنة.",
+      "availablePackagesDescription13": "الأطفال المصابين بالحساسية الغذائية.",
+      "availablePackagesDescription2": "نحن نحرص على تقديم وجبات مخصصة لكل فئة وفقاً لاحتياجاتهم الصحية.",
+      "availablePackagesDescription3": "نقدم استبيانًا صحيًا للتأكد من أن الوجبة التي نقدمها تناسب حالة الطفل الصحية.",
+      "responsibilityAndGuarantees": "المسؤولية والضمانات",
+      "responsibilityAndGuaranteesDescription": "نحن ملتزمون بتقديم وجبات صحية وآمنة للأطفال. لا نتحمل مسؤولية أي ردود فعل تحسسية غير معلنة أو تقديم معلومات صحية غير دقيقة من ولي أمره.",
+      "modificationsAndUpdates": "التعديلات والتحديثات",
+      "modificationsAndUpdatesDescription": "نحتفظ بالحق في تعديل هذه السياسة والأحكام في أي وقت. سيتم إخطار المستخدمين بأي تغييرات عبر البريد الإلكتروني أو من خلال الموقع.",
+      "contactUs": "الاتصال بنا",
+      "contactUsDescription": "إذا كان لديك أي أسئلة أو استفسارات حول سياستنا وأحكامنا، يرجى التواصل معنا عبر:"
+    },
+
+    
+
+
+    
+    
+    
+
+
+
+    "verificationPage": {
+      "title": "أدخل رقم التحقق",
+      "subTitle": "أدخل رمز التحقق الذي أرسلناه لك للتو على رقم هاتفك المحمول",
+      "link": "انشئ حساب",
+      "codeHint": "قد يستغرق استلام الرمز دقيقة ، ألم تستلمه؟",
+      "resend": "أعد إرسال الرمز"
+    },
+    "forgotPasswordPage": {
+      "title": "أنشئ كلمة مرور جديدة",
+      "subTitle": "يرجى تعيين كلمة المرور الجديدة الخاصة بك"
+    },
+    "applicantForm": {
+      "Add Applicant": "إضافة طالب",
+      "addNewApplicant": "إضافة طالب جديد",
+      "Edit Applicant": "تحديث الطالب",
+      "Applicant name": "اسم الطالب",
+      "School name": "اسم المدرسة",
+      "Educational level": "المستوى التعليمي",
+      "Health issue": "مشكلة صحية",
+      "Health Issue Description": "اكتب وصفًا لمشكلة صحية",
+      "Home Address": "عنوان المنزل",
+      "School Address": "عنوان المدرسة",
+      "Area": "المنطقة",
+      "Street Name": "اسم الشارع",
+      "Building name": "اسم المبنى / رقمه",
+      "Landmark": "معلم / ملاحظة",
+      "Save": "حفظ",
+      "Back": "رجوع"
+    },
+    "applicantsData": {
+      "Applicants Data": "بيانات الطلاب",
+      "Applicant Name": "اسم الطالب",
+      "School Name": "اسم المدرسة",
+      "Educational Level": "المستوى التعليمي",
+
+      "Health Issue": "مشكلة صحية",
+      "Health Issue Description": "وصف المشكلة الصحية",
+      "Home Address": "عنوان المنزل",
+      "School Address": "عنوان المدرسة",
+      "Add Another Applicant": "إضافة طالب آخر",
+      "Delete Confirm": "هل أنت متأكد أنك تريد حذف الطالب؟"
+    },
+    "sideNav": {
+      "My Account": "حسابي",
+      "Account": "الحساب",
+      "Applicants": "الطلاب",
+      "Payment": "الدفع",
+      "My Orders": "طلباتي",
+      "Current Orders": "الطلبات الحالية",
+      "History": "الطلبات السابقة",
+      "Log out": "تسجيل الخروج"
+    },
+    "calendar": {
+      "currentOrdersTitle": "انقر فوق اليوم الذي تريد إلغاء استلام الوجبة فيه.",
+      "cartTitle": "الرجاء تحديد يوم الأحد كتاريخ البدء",
+      "weekend": "نهاية الاسبوع",
+      "noMonths": "عدد الشهور",
+      "offDay": "يوم عطلة",
+      "offDaySuccessMsg": "تمت إضافة يوم الإجازة بنجاح."
+    },
+    "packages": {
+      "title": "باقاتنا",
+      "subTitle": "كل عبوة تقدم 5 وجبات مختلفة ، كل وجبة تحتوي على جميع العناصر الغذائية المتكاملة التي سيحصل طفلك على وجبة منها يومياً بالمقابل.",
+      "subscribe": "اشتراك",
+      "perMonth": "شهريًا",
+      "showMore": "عرض المزيد",
+      "showLess": "عرض أقل",
+      "chooseApplicant": "اختر الطالب"
+    },
+    "preRegister": {
+      "firstName": "الاسم الاول",
+      "lastName": "الاسم الاخير",
+      "emailAddress": "عنوان البريد الالكترونى",
+      "mobileNumber": "رقم الهاتف ",
+      "preRegister": "التسجيل المسبق"
+    },
+    "loginBtn": {
+      "Signin": "تسجيل دخول",
+      "Signup": "تسجيل",
+      "or": "أو",
+      "createAccount": "إنشاء حساب مجاني",
+      "Name": "الأسم",
+      "phone": " رقم الهاتف",
+      "Your Name": "الأسم",
+      "Your Phone Number": "رقم الهاتف",
+      "Email": "البريد الالكتروني",
+      "Password": "كلمة المرور",
+      "ConfirmPassword": "تأكيد كلمة المرور",
+      "haveaccount": "هل لديك حساب؟",
+      "donthaveaccount": "عضو جديد؟"
+    },
+    "search": {
+      "NoResult": "لا توجد نتائج!"
+    },
+    "footer": {
+      "newsLetterSubscription": "الاشتراك في النشرة الإخبارية",
+      "emailAddress": "عنوان البريد الالكترونى",
+      "subscribe": "الإشتراك",
+      "followUs": "تابعنا",
+      "developedBy": "طورت بواسطة"
+    },
+    "general": {
+      "submit": "إرسال",
+      "pay": "Pay",
+      "or": "أو",
+      "add": "أضافه",
+      "edit": "تعديل",
+      "delete": "حذف",
+      "Add New": "اضف جديد",
+      "Add Card": "أضف بطاقة",
+      "Cancel": "إلغاء",
+      "Sign Out": "خروج",
+      "logoutText": "يمكنك دائمًا الوصول إلى المحتوى الخاص بك عن طريق الغناء مرة أخرى",
+      "items": "منتجات",
+      "apply": "تطبيق",
+      "tryAgain": "حاول مرة أخرى"
+    },
+    "product": {
+      "pages": "Pages",
+      "page": "Page",
+      "bookmark": "Bookmark",
+      "Content": "Content"
+    },
+    "productOverview": {
+      "About": "About",
+      "Author": "Author",
+      "Reviews": "Reviews",
+      "description": "التفاصيل",
+      "showDetails": "Show Details",
+      "inCart": "In Cart",
+      "Content": "Content",
+      "Level": "Level"
+    },
+    "placeholder": {
+      "What your are Looking for?": "ما الذي تبحث عنه؟"
+    },
+    "Profile": {
+      "General Information": "معلومات عامة",
+      "Security": "الأمان",
+      "MyAccount": "حسابي",
+      "MyOrders": "طلباتي",
+      "MyBoxes": "صناديقي",
+      "MyItems": "منتجاتي",
+      "DanRewards": "مكافآت دان",
+      "Rewards": "مكافآت",
+      "MyAddresses": "عناويني",
+      "Review Product": " تقيم المنتج",
+      "MyPayment": "مدفوعاتى",
+      "Edit": "تعديل",
+      "LogOut": "تسجيل خروج",
+      "Switch": "تتغير ل ",
+      "logoutConfirm": "هل أنت متأكد أنك تريد تسجيل الخروج؟"
+    },
+    "address": {
+      "Add New Address": "أضف عنوان جديد",
+      "Edit Address": "تعديل العنوان",
+      "Address": "عنوان",
+      "Write Your Address": "اكتب عنوانك",
+      "change address": "تغيير العنوان",
+      "Name": "اسم ",
+      "Last Name": "الاسم الأخير",
+      "Country": "البلد",
+      "City": "المدينة",
+      "Zip Code": "الرمز البريدي",
+      "State Name": "اسم الولاية",
+      "Country ISO": "البلد ISO",
+      "Country ISO3": "البلد  ISO3",
+      "Label": "التسمية",
+      "State Code": "رمز الولاية",
+      "Phone Number": "رقم الهاتف",
+      "Address1": "العنوان 1",
+      "Address2": "العنوان 2"
+    },
+    "reward": {
+      "Your point": "نقاطك",
+      "value": "القيمة"
+    },
+    "order": {
+      "Deliver Address": "تسليم العنوان",
+      "Payment Method": "طريقة الدفع",
+      "Order Summery": "ملخص الطلب",
+      "applicantName": "اسم الطالب",
+      "startDate": "تاريخ البدء",
+      "numOfMonths": "عدد الشهور",
+      "paymentSummary": "ملخص الدفع",
+      "total": "المجموع الكلي",
+      "vat": "الضريبة",
+      "subtotal": "المجموع الفرعي",
+      "Rate This item": "قيم هذا المنتج",
+      "Write your Feedback": "اكتب ملاحظاتك",
+      "what your experience": "ما هي تجربتك",
+      "Review This Order": "راجع هذا الطلب",
+      "In Processing": "تحت التجهيز",
+      "Out for delivery": "يشحن الآن ",
+      "Delivered": "تم الشحن",
+      "Subtotal": "المجموع",
+      "Delivery": "مصاريف الشحن",
+      "Total": "المجموع (يتضمن الضريبة)",
+      "items": "منتجات",
+      "view details": "التفاصيل",
+      "order number": "رقم الطلب",
+      "delivery date": "تاريخ الوصول",
+      "back": "رجوع",
+      "placeOrder": "تاكيد الطلب"
+    },
+    "form": {
+      "ForgetYourPassword": "نسيت كلمه المرور",
+      "passwordlessthaneight": "* يجب أن تتكون كلمة المرور الخاصة بك من 8 أحرف على الأقل",
+      "passwordNotMatch": "كلمات المرور غير متطابقة"
+    },
+    "forgetPasswordScreen": {
+      "header": "نسيت كلمه المرور",
+      "phoneLabel": "رقم الموبايل",
+      "confirmBtn": "تأكيد",
+      "falsePhoneNumber": "يجب ادخال رقم هاتف صحيح",
+      "unregisteredPhoneNumber": "هذا الرقم غير مسجل",
+      "changePassword": "تغيير كلمة المرور",
+      "currentPassword": "كلمة المرور الحالية",
+      "newPassword": "كلمة المرور الجديدة",
+      "confirmNewPassword": "تأكيد كلمة المرور الجديدة",
+      "save": "حفظ",
+      "Enternewpassword": "أدخل كلمة المرور الجديدة",
+      "Entercurrentpassword": "أدخل كلمة المرور الحالية"
+    },
+    "pagination": {
+      "Previous": "السابق",
+      "Next": "التالي",
+      "Skip": "تخطى",
+      "checkout": "الدفع",
+      "Proceed": "تابع"
+    },
+    "emptyState": {
+      "applicant": {
+        "title": "لا يوجد طلاب حتى الآن",
+        "description": "يبدو أنه ليس لديك أي طلاب",
+        "button": "إضافة طالب"
+      },
+      "package": {
+        "title": "لا باقات حتى الآن",
+        "description": "يبدو أنك لم تختر أي باقة",
+        "button": "رجوع الى الصفحة الرئيسية"
+      },
+      "currentorders": {
+        "title": "لا توجد طلبات حالية حتى الآن",
+        "description": "يبدو أنك لم تقدم طلبك، اختر من باقاتنا واطلب الآن",
+        "button": "رجوع الى الصفحة الرئيسية"
+      },
+      "historicalOrders": {
+        "title": "لا توجد طلبات قديمة حتى الآن",
+        "description": "يبدو أنك لم تقدم أي طلبات ، اختر من باقاتنا واطلب الآن.",
+        "button": "رجوع الى الصفحة الرئيسية"
+      }
+    },
+    "cart": {
+      "orderSummery": "ملخص الطلب",
+      "paymentway": "طريقه الدفع",
+      "cash": "نقدي",
+      "card": "فوري (بطاقة إئتمان)",
+      "orderlist": "قائمه الطلبات",
+      "coursepending": "الدرس قيد الدفع في",
+      "pending": "قيدالدفع",
+      "success": "لقد اشتريت",
+      "Successfully": "بنجاح",
+      "myCoursesList": "اذهب إلى دوراتي",
+      "datestart": "تاريخ البدء",
+      "price": "السعر",
+      "trainingcourse": "الدوره التدريبيه",
+      "totalprice": "الحساب الكلي",
+      "empty": "عربة التسوق فارغة",
+      "explore": "اكتشف الدورات"
+    },
+    "errors": {
+      "errorAccess": "لا يمكنك الوصول الى هذى الصفحه"
+    },
+    "editProfileMessages": {
+      "ThesePhoneNumberUsedBefore": "هذا الرقم مستخدم من قبل",
+      "PhoneNumberIsInvalid": "رقم الهاتف غير صحيح",
+      "PleaseEnterYourPhoneNumber": "الرجاء ادخال رقم الهاتف",
+      "EmailIsAlreadyTaken": "البريد الالكتروني مأخوذ من قبل",
+      "EmailIsInvalid": "الرجاء ادخال بريد الكترونى صالح",
+      "YouShouldEnterYourName": "الرجاء ادخال اسمك",
+      "Useraccountupdatedsuccessfully": "تم تعديل بيانات المستخدم بنجاح"
+    },
+    "changePasswordMessages": {
+      "changePassword": "تغيير كلمة المرور",
+      "passwordMismatch": "يجب ان تكون كلمة المرور الجديد و تاكيد كلمة المرور متطابقة و ان لا تقل عن 8 عناصر",
+      "MissingPasswordORPasswordConfirmation": "يجب ادخال كلمة المرور و كلمة المرور الجديدة و تأكيد كلمة المرور",
+      "PasswordChanged": "تم تغير كلمة المرور",
+      "Great": "رائع!",
+      "Successfully": "بنجاح"
+    },
+    "shopping": {
+      "title": "تسوق",
+      "seeAll": "اظهار الكل",
+      "fruits": {
+        "title": "الفاكهة",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      },
+      "vegetables": {
+        "title": "الخضروات",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      },
+      "boxes": {
+        "title": "الصناديق",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      },
+      "mushrooms": {
+        "title": "الفطر والأعشاب",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      },
+      "salads": {
+        "title": "السلطات",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      },
+      "more": {
+        "title": "المزيد",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      }
+    },
+    "bestSeller": {
+      "title": "الأفضل مبيعاً",
+      "seeAll": "اظهار الكل"
+    },
+    "ourAdvantage": {
+      "ourAdvantage": "مميزاتنا",
+      "allYear": {
+        "title": "منتجات طوال العام",
+        "desc": "نوفر جميع المنتجات الزراعية بمختلف انواعها طوال فصول السنة"
+      },
+      "fresh": {
+        "title": "مقطعة أو معبأة",
+        "desc": "لضمان أفضل تجربة، نقدم خدمة المنتجات المقطعة أو المعلبة بخيارات عديدة"
+      },
+      "delivery": {
+        "title": "توصيل الطلبات",
+        "desc": "نقدم خدمة التوصيل للافراد والشركات لضمان حصولك على تجربة توصيل مميزة وممتعة"
+      }
+    },
+    "ourProcess": {
+      "title": "عن أنظمتنا",
+      "text": ".نستخدم نظم التحكم المبنية على الأسس العلمية لضمان أعلى مستويات الأمان والجودة المطابقة للمعايير الدولية داخل مصانعنا بمساحة تزيد عن 5000 متر مكعب وتنتج أكثر من 40 طن من المنتجات الطازجة يومياً بالإضافة إلى خدمتنا اللوجستية المتكاملة لضمان وصول المنتجات إلى عملائنا بطريقة سهلة وعالية الجودة"
+    },
+    "foodSafety": {
+      "title": "سلامة الغذاء",
+      "text": "دان فوودز تؤمن بسلامة الغذاء وتأخذه على محمل الجد، حتى يثق عملاؤنا اننا نقدم لهم أأمن المنتجات. نحن نؤمن أيضاً بخدمة العملاء ودائماً نضع عملاؤنا أولاً."
+    },
+    "customersSay": {
+      "title": "ماذا يقول عملاؤنا عنا؟",
+      "subtitle": "دان تؤمن أن الطعام الصحي اللذيذ ليس رفاهية. نرى أنها مسؤليتنا أن نبتكر طرق جديدة لجعل الفاكهة والخضروات أكثر متعة وارخص في نفس الوقت.",
+      "review1": {
+        "review": "كانت الحياة قبل الشركة فوضوية للغاية - تلقينا الكثير من المكالمات الهاتفية ، والكثير من الطلبات التي تمت كتابتها بشكل خاطئ. لذلك مع الشركة ، فإن القدرة على رؤية الطلب مباشرة من العميل تجعله مبسطًا للغاية.",
+        "by": "مارتن جونز، كريتف كونز"
+      },
+      "review2": {
+        "review": "كانت الحياة قبل الشركة فوضوية للغاية - تلقينا الكثير من المكالمات الهاتفية ، والكثير من الطلبات التي تمت كتابتها بشكل خاطئ. لذلك مع الشركة ، فإن القدرة على رؤية الطلب مباشرة من العميل تجعله مبسطًا للغاية.",
+        "by": "مارتن جونز، كريتف كونز"
+      },
+      "review3": {
+        "review": "كانت الحياة قبل الشركة فوضوية للغاية - تلقينا الكثير من المكالمات الهاتفية ، والكثير من الطلبات التي تمت كتابتها بشكل خاطئ. لذلك مع الشركة ، فإن القدرة على رؤية الطلب مباشرة من العميل تجعله مبسطًا للغاية.",
+        "by": "مارتن جونز، كريتف كونز"
+      }
+    },
+    "ourProfile": {
+      "title": "تحميل ملفنا",
+      "text": "دان تؤمن أن الطعام الصحي اللذيذ ليس رفاهية. نرى أنها مسؤليتنا أن نبتكر طرق جديدة لجعل الفاكهة والخضروات أكثر متعة وارخص في نفس الوقت.",
+      "download": "تحميل"
+    },
+    "productCard": {
+      "addToCart": "أضف للعربة"
+    },
+    "carousel": {
+      "title": "دان فوودز ش.م.م",
+      "text": "نرى أنها مسؤليتنا أن نبتكر طرق جديدة لجعل الفاكهة والخضروات أكثر متعة وارخص في نفس الوقت",
+      "button": "معلومات عنا"
+    },
+    "card": {
+      "Add Card": "أضف بطاقة إئتمان",
+      "Edit Card": "عدل بطاقة الإئتمان",
+      "card number": "رقم البطاقة",
+      "exp date": "تاريخ الإنتهاء",
+      "secure code": "رقم الأمان",
+      "name": "الإسم كما هو على البطاقة",
+      "zip": "الرقم البريدي"
+    },
+    "product details": {
+      "was": "قبل",
+      "now": "بعد",
+      "saving": "التوفير",
+      "quantity": "الكمية",
+      "share": "نشر المنتج",
+      "description": "التفاصيل",
+      "reccomendations": "أنظر أيضاً",
+      "ratings": "تقييم",
+      "ship": "الشحن إلى ",
+      "change country": "تغيير الدولة",
+      "deposit": "إيداع إلى  ",
+      "arrives": "موعد الوصول ",
+      "fees": " رسوم الشحن والاستيراد",
+      "cut type": "نوع القطع",
+      "country": "بلد المنشأ",
+      "whats in": "ماذا يوجد في هذا الصندوق؟"
+    },
+    "shoppingPage": {
+      "category": "الفئة",
+      "type": "نوع",
+      "sub category": "تصنيف فرعي",
+      "price": "سعر",
+      "products found": "منتج",
+      "collections found": "منتج",
+      "sort by": "رتب حسب",
+      "high to low": "السعر (الاعلى الى الادنى)",
+      "low to high": "السعر (الأدنى إلى الأعلى)",
+      "to": "إلى",
+      "go": "إذهب"
+    },
+    "load more": "المزيد",
+    "order summary": {
+      "Enter a Promocode": "أضف كود خصم",
+      "Add Dan Rewards Points": "أضف نقاط مكافأت دان",
+      "move to wishlist": "أضف إلى الرغبات",
+      "proceed to checkout": "إتجه إلى الدفع"
+    },
+    "myBoxes": {
+      "myBoxes": "صناديقي",
+      "create new box": "إنشاء صندوق جديد",
+      "box list": "قائمة الصناديق",
+      "add": "إضافة",
+      "box name": "اسم الصندوق",
+      "name": "اسم",
+      "quantity": "الكمية",
+      "create": "إنشاء",
+      "box": "الوحدة",
+      "box will match": "الوحدة تعادل"
+    },
+    "notifications": {
+      "notifications": "الاشعارات"
+    },
+    "lets talk": "دعنا نتحدث",
+    "faq": "أسئلة شائعة",
+    "explore": "إكتشف",
+    "contactus": {
+      "location": "العنوان",
+      "phone": "الهاتف",
+      "email": "البريد الإلكتروني"
+    },
+    "become client": {
+      "phone": "الهاتف",
+      "email": "البريد الإلكتروني",
+      "name": "الاسم",
+      "message": "الرسالة",
+      "send": "أرسل",
+      "enter name": "أدخل اسمك هنا",
+      "enter message": "اكتب رسالتك هنا",
+      "love": "يسعدنا أن نسمع منك",
+      "become": "كن عميلاً لنا"
+    },
+    "become vendor": {
+      "phone": "الهاتف",
+      "email": "البريد الإلكتروني",
+      "name": "الاسم",
+      "message": "الرسالة",
+      "send": "أرسل",
+      "enter name": "أدخل اسمك هنا",
+      "enter message": "اكتب رسالتك هنا",
+      "love": "يسعدنا أن نساعدك",
+      "become": "كن بائعا"
+    },
+    "dan kitchen": {
+      "read more": "إقرأ المزيد",
+      "recipes": "الوصفات",
+      "Our Blog": "مدونتنا",
+      "see more": "المزيد",
+      "new comment": "تعليق جديد",
+      "people also viewed": "أنظر أيضاً",
+      "by": "كتبه",
+      "ingredients": "المكونات",
+      "how to cook": "طريقة التحضير",
+      "additional": "معلومات إضافية",
+      "serving time": "وقت التحضير",
+      "tags": "العلامات",
+      "nutrition": "العناصر الغذائية"
+    },
+    "chat": {
+      "head": "خدمة عملاء دان فوودز",
+      "reply": "الرد هنا",
+      "better": "لخدمة عملاء أفضل.",
+      "dont": "ليس لديك حساب؟",
+      "create": "قم بفتح واحد الأن"
+    },
+    "checkout": {
+      "checkout": "الدفع",
+      "method": "طريقة الدفع",
+      "how pay": "كيف تريد الدفع؟",
+      "credit": "بطاقة إئتمان أو بطاقة الخصم المباشر",
+      "cod": "الدفع عند التوصيل",
+      "deliver to": "مكان الإستلام",
+      "review": "راجع طلباتك",
+      "place order": "تاكيد الطلب"
+    },
+    "my-account": {
+      "fullname": "الاسم كامل",
+      "email": "البريد الإلكتروني",
+      "mobileNumber": "رقم الهاتف"
+    },
+    "subscriptionConfirm": {
+      "message": "شكرًا لك على الاشتراك",
+      "details": "شكرًا لك على شرائك، لقد تم استلام طلبك بنجاح"
+    },
+    "subscriptionFailed": {
+      "message": " !عملية الدفع فشلت",
+      "details": "لم ينجح الدفع لوجود خلل ، يرجى المحاولة مرة أخرى أو استخدام طريقة دفع أخرى."
+    },
+    "notification": {
+      "notifications": "الاشعارات",
+      "showAllNotifications": "عرض جميع الاشعارات",
+      "loadMoreNotifications": "تحميل المزيد من الاشعارات",
+      "today": "اليوم",
+      "yesterday": "بالأمس"
+    },
+    "forgetPasswordPage": {
+      "subTitle": "يرجى إدخال رقم الهاتف المحمول المرتبط بحسابك لإرسال رمز التحقق إليك",
+      "sendVerfCode": "إرسال رمز التحقق"
+    },
+    "toaster": {
+      "packageSubscription": "يجب عليك تسجيل الدخول أولاً للاشتراك في الباقة"
+    },
+    "deliver": "التوصيل إلى",
+    "Explore our Categories": "استكشف فئاتنا",
+    "Details": "تفاصيل",
+    "filter by": "تصنيف"
+  }
+}
