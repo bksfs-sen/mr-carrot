@@ -155,10 +155,7 @@ inova_eg-mrcarrot_backend/node_modules
 inova_eg-mrcarrot_backend/yarn-error.log
 inova_eg-mrcarrot_backend/yarn-debug.log*
 inova_eg-mrcarrot_backend/.yarn-integrity
-inova_eg-mrcarrot_backend/config/credentials/development.yml.enc
-inova_eg-mrcarrot_backend/config/credentials/development.key
-inova_eg-mrcarrot_backend/config/credentials/development.key
+inova_eg-mrcarrot_backend/config/credentials/
 inova_eg-mrcarrot_backend/config/master.key
-inova_eg-mrcarrot_backend/config/credentials/production.key
 
 
